@@ -1,4 +1,3 @@
-```
 def solution(storey):
     answer = 0
     ele_len = len(str(storey))
@@ -40,4 +39,3 @@ def solution(storey):
         print("ans : ", answer)
         
     return answer
-```
